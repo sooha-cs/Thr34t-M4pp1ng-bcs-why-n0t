@@ -24,18 +24,12 @@ In July 2026, a breach affecting Canvas (reported to impact 275M+ users) was att
 
 ## Repository Contents        
 
-> TBA
-> 
-
 ```
 /navigator        → ATT&CK Navigator heatmap layer (JSON export)
-/report           → write-up summarizing methodology and mapping rationale
-/sources          → list of public incident reports referenced
+/report           → medium blog link & contact
+/sources          → list of references
 ```
-
-## Advisor      
-
-This research is being conducted under the supervision of Prof. [Name], [Department], [Institution].   {TBA}   
+  
 
 ## Notes on Sourcing     
 
@@ -43,4 +37,4 @@ All technique mapping is based on **publicly available incident reports and disc
 
 ## Contact      
 
-For questions about this research or collaboration inquiries, reach out at [your email] or via [LinkedIn/GitHub profile link].      
+For questions about this research or collaboration inquiries, reach out by dropping a DM !      
